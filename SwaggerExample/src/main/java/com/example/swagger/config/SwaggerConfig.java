@@ -22,7 +22,7 @@ public class SwaggerConfig {
 	 *  for our services at the root which will provide the documentation
 	 *  
 	 *  /v2/api-docs        (for API documentation in JSON)
-	 *  /swagger-ui.htm     (for API documentation in UI)
+	 *  /swagger-ui.html     (for API documentation in UI)
 	 * 
 	 */
 
